@@ -67,10 +67,7 @@ programmer2.display_info()
 		<td>4</td>
             	<td><a href="https://github.com/ogrobaia/ogrobaia.github.io"><b>Python/html/CSS/JS/ Project</b></a></td>
 		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Stars" src="https://github.com/ogrobaia/ogrobaia.github.io" /></td>
         </tr>
     </tbody>
 </table>
@@ -91,9 +88,7 @@ programmer2.display_info()
     </p>
 <figure>
 	<embed src="https://wakatime.com/@8ba23d04-d5a7-4008-804f-3fb5175b28cd"></embed></figure>
-```ruby 
-	end 
-end 
+```Python 
 ```
 
 
