@@ -26,7 +26,7 @@ programmer2.display_info()
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
-    <a href="https://www.linkedin.com/in/daniel-da-silva-lima-2ab2982b8/" target="_blank"><img align="center" src="https://github.com/ogrobaia" alt="ogrobaia" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/daniel-da-silva-lima-2ab2982b8/" target="_blank"><img align="center" src="https://github.com/ogrobaia/danielsilva/blob/master/linkedin.png" alt="ogrobaia" height="30" width="40" /></a>
 </p>
 
 ---
