@@ -46,24 +46,6 @@ programmer2.display_info()
     </thead>
     <tbody>
 	<tr>
-		<td>1</td>
-            	<td><a href="https://github.com/marcodotcastro/sale-factory"><b>Sales Factory</b></a></td>
-		<td>Business / Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-        <tr>
-		<td>2</td>
-		<td><a href="https://github.com/marcodotcastro/portal-agro"><b>Portal Agro</b></a></td>
-	 	<td>Business / Developer</td>
-	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-     	<tr>
 		<td>4</td>
             	<td><a href="https://github.com/ogrobaia/ogrobaia.github.io"><b>Python/html/CSS/JS/ Project</b></a></td>
 		<td>Developer</td>
