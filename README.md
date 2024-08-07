@@ -61,7 +61,8 @@ programmer2.display_info()
         <a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
         <a href="https://stackshare.io/github" target="_blank"><img src="https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg" alt="github" width="40" height="40" /></a>
         <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-        <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="java" width="40" height="40" /></a>
+        <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://img.stackshare.io/service/3511/cof_orange_hex.jpg" alt="ubuntu" width="40" height="40" /></a>
+	<a href="https://stackshare.io/linux-mint" target="_blank"><img src="https://img.stackshare.io/service/4763/default_6fd262b2c037220a65d5a0e39f346f6cc2e18a36.png" alt="ubuntu" width="40" height="40" /></a>
         <h4 align="left">Medium Skill:</h4>
         <a href="https://stackshare.io/python" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
 	    <h4 align="left">Low Skill:</h4>
