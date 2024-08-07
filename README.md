@@ -49,12 +49,9 @@ programmer2.display_info()
 		<td>4</td>
             	<td><a href="https://github.com/ogrobaia/ogrobaia.github.io"><b>Python/html/CSS/JS/ Project</b></a></td>
 		<td>Developer</td>
-            	<td><img alt="Stars" src="https://github.com/ogrobaia/ogrobaia.github.io" /></td>
         </tr>
     </tbody>
 </table>
-
- <img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
