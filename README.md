@@ -7,21 +7,6 @@ class Programmer:
         self.name = name
         self.language = language
 
-    def get_name(self):
-        return self.name
-
-    def get_language(self):
-        return self.language
-
-    def display_info(self):
-        print(f"Programmer Name: {self.name}")
-        print(f"Programming Language: {self.language}")
-
-programmer = Programmer("Daniel", "Python")
-programmer.display_info()
-programmer2 = Programmer("Daniel", "JScript")
-programmer2.display_info()
-
 ```
 
 <p align="left">
