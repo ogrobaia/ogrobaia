@@ -36,8 +36,8 @@ class Programmer:
 		<td>Developer</td>
 		<td><img alt="Stars" src="https://img.shields.io/github/stars/ogrobaia/ogrobaia.github.io?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/ogrobaia/ogrobaia.github.iostyle=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/ogrobaia.github.io?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ogrobaia/ogrobaia.github.io?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="" /></td>
+            	<td><img alt="Pull Requests" src="" /></td>
         </tr>
     </tbody>
 </table>
