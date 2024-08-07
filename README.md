@@ -35,9 +35,9 @@ class Programmer:
             	<td><a href="https://github.com/ogrobaia/ogrobaia.github.io"><b>Python/html/CSS/JS/ Project</b></a></td>
 		<td>Developer</td>
 		<td><img alt="Stars" src="https://img.shields.io/github/stars/ogrobaia/ogrobaia.github.io?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/ogrobaia/ogrobaia.github.iostyle=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/ogrobaia/ogrobaia.github.io?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ogrobaia/ogrobaia.github.io?style=flat-square&labelColor=343b41" /></td>
         </tr>
     </tbody>
 </table>
