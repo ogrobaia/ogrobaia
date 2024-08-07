@@ -53,6 +53,8 @@ programmer2.display_info()
     </tbody>
 </table>
 
+ <img align="right" alt="GIF" src="https://github.com/ogrobaia/danielsilva/blob/master/code.gif?raw=true" width="70%" height="400px" />
+
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <h4 align="left">High Skill:</h4>
