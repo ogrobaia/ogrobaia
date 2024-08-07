@@ -63,9 +63,9 @@ programmer2.display_info()
         <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
         <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="java" width="40" height="40" /></a>
         <h4 align="left">Medium Skill:</h4>
-        <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-	    <h4 align="left">Low Skill:</h4>
         <a href="https://stackshare.io/python" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+	    <h4 align="left">Low Skill:</h4>
+        <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
     </p>
 <figure>
 	<embed src="https://wakatime.com/@8ba23d04-d5a7-4008-804f-3fb5175b28cd"></embed></figure>
